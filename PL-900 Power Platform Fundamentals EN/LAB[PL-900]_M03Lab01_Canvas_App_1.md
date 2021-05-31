@@ -6,7 +6,7 @@ lab:
 
 # Module 3: Get started with Power Apps
 
-## Lab: How to build a canvas app, Part 1
+## Lab2.1: How to build a canvas app, Part 1
 
 ### Important Notice (Effective November 2020):
 Common Data Service has been renamed to Microsoft Dataverse. Some terminology in Microsoft Dataverse has been updated. For example, entity is now table. Fields and records in Dataverse databases are now referred to as columns and rows.
@@ -124,7 +124,7 @@ In this task, you will configure the Detail form to view information about indiv
 9.  Remove the **Created On** field by clicking the ellipses (**...**) beside the field name and selecting **Remove**. 
 
 10.  Close the **Fields** pane.
- 
+
 11.  To preserve work in progress, click **File** then click **Save**. Use the back arrow to return to the app.
 
 ## Task \#3: Configure Visits Edit Form
