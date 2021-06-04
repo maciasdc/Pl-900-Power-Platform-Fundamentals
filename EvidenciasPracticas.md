@@ -46,7 +46,18 @@ Module 0: Course introduction
 ![00-00](Evidencias/MOD3_Lab2_Exe_1_Task_1_03.png)
 ![00-00](Evidencias/MOD3_Lab2_Exe_1_Task_1_04.png)
 ![00-00](Evidencias/MOD3_Lab2_Exe_1_Task_2_02.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_1_Task_2_07.png)
 ![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_1_02.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_2_05.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_2_06.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_4_05.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_4_07.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_5_02.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_5_04.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_5_06.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_6_05.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_6_07.png)
+![00-00](Evidencias/MOD3_Lab2_Exe_2_Task_7_01.png)
 
  
 
@@ -82,9 +93,43 @@ Module 0: Course introduction
 ![00-00](Evidencias/MOD3_Lab4_Exe_1_Task_4_3.png)
 ![00-00](Evidencias/MOD3_Lab4_Exe_1_Task_4_4.png)
 ![00-00](Evidencias/MOD3_Lab4_Exe_2_Task_1_02.png)
-![00-00](Evidencias/MOD3_Lab4_Exe_2_Task_1_03.png)
 
+# Module 4: Get Started with Power Automate
 
+## Lab: How to build an automated solution
+
+![00-00](Evidencias/MOD4_Lab1_Exe_1_Task_1_04.png)
+![00-00](Evidencias/MOD4_Lab1_Exe_1_Task_1_08.png)
+![00-00](Evidencias/MOD4_Lab1_Exe_1_Task_1_10.png)
+![00-00](Evidencias/MOD4_Lab1_Exe_1_Task_1_10b.png)
+![00-00](Evidencias/MOD4_Lab1_Exe_1_Task_1_11.png)
+![00-00](Evidencias/MOD4_Lab1_Exe_1_Task_2_14.png)
+![00-00](Evidencias/MOD4_Lab1_Exe_2_Task_1_04.png)
+
+![00-00](Evidencias/MOD4_Lab4_Exe_2_Task_1_05.png)
+![00-00](Evidencias/MOD4_Lab4_Exe_2_Task_1_07.png)
+![00-00](Evidencias/MOD4_Lab4_Exe_2_Task_1_18.png)
+![00-00](Evidencias/MOD4_Lab4_Exe_2_Task_1_18b.png)
+
+# Module 5: Get Started with Power BI
+
+## Lab: How to build a simple dashboard
+
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_1_01.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_1_09.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_1_11.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_2_04.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_2_04b.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_2_06.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_2_06b.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_2_12.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_2_16.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_1_Task_3_11.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_2_Task_1_01.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_2_Task_2_06.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_2_Task_3_05.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_2_Task_4_01.png)
+![00-00](Evidencias/MOD5_Lab1_Exe_2_Task_4_04.png)
 
 # Module 6: Intro to Power Virtual Agents
 
